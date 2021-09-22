@@ -10,7 +10,7 @@ This is the main repository for all of the projects in the course.
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Expanding Cards](https://github.com/orewakira/50_Projects_In_50_Days/tree/main/1_Expanding_Cards)                          | [Live Demo](https://50projects50days.com/projects/expanding-cards/)               |
-| 02  | Progress Steps                           | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
+| 02  | [Progress Steps](https://github.com/orewakira/50_Projects_In_50_Days/tree/main/2_Progress_Steps)                           | [Live Demo](https://50projects50days.com/projects/progress-steps/)                |
 | 03  | Rotating Navigation Animation                      | [Live Demo](https://50projects50days.com/projects/rotating-navigation-animation/) |
 | 04  | Hidden Search Widget                          | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/)          |
 | 05  | Blurry Loading                               | [Live Demo](https://50projects50days.com/projects/blurry-loading/)                |
